@@ -15,19 +15,19 @@ A frozenset is an immutable version of a set where elements cannot be modified a
 
 ALGORITHM
 
-Create a set with multiple elements.
+1)Create a set with multiple elements.
 
-Print the set to observe unordered and unique values.
+2)Print the set to observe unordered and unique values.
 
-Attempt indexing to verify that sets are not subscriptable.
+3)Attempt indexing to verify that sets are not subscriptable.
 
-Add and remove elements using set methods.
+4)Add and remove elements using set methods.
 
-Check membership using the in keyword.
+5)Check membership using the in keyword.
 
-Perform union, intersection, difference, and symmetric difference operations.
+6)Perform union, intersection, difference, and symmetric difference operations.
 
-Create and observe a frozenset.
+7)Create and observe a frozenset.
 
 CONCLUSION
 
